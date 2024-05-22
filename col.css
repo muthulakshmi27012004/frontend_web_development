@@ -1,0 +1,64 @@
+body{
+	
+	background-color:papayawhip ;
+    border-radius: 15px;
+	
+}
+div.container{
+    
+    
+    padding:35px ;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 35px;
+    
+}
+.f1{
+    padding: 15px;
+}
+h1{
+    color: black;
+}
+h3{
+    color: palevioletred;
+    padding: 15px;
+}
+.f2{
+    background-color:papayawhip ;
+    border-radius:15px ;
+    padding: 15px;
+    padding-bottom: 5px;
+    padding-top: 15px;
+}
+p{
+    Font size (paragraph): 16px;
+    padding: 15px;
+}
+.f3{
+    padding: 15px;
+}
+.f4{
+    padding: 15px;
+}
+ul{
+    padding: none;
+    color-scheme:palevioletred ;
+}
+ol{
+
+}
+.f0{
+    border-radius: 35px;
+}
+.attribution{
+    padding: 15px;
+}
+.align-top{
+    border-bottom:outset;
+}
+.f5{
+    text-emphasis-color:palevioletred ;
+}
